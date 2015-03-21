@@ -1,2 +1,5 @@
 *.pyc
+*.zip
+*.tar
+*.tgz
 *.DS_storen
