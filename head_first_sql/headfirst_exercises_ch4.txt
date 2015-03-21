@@ -1,0 +1,64 @@
+contact_id INT NOT NULL AUTO_INCREMENT,
+last_name varchar(30) default NULL,
+first_name varchar(20) default NULL,
+email varchar(50) default NULL,
+birthday date default NULL,
+gender char(1) default NULL,
+profession varchar(50) default NULL,
+location varchar(50) default NULL,
+status varchar(20) default NULL,
+interests varchar(100) default NULL,
+PRIMARY KEY (contact_id)
+
+CREATE TABLE chapter4_names (
+contact_id INT NOT NULL AUTO_INCREMENT,
+last_name varchar(30) default NULL,
+first_name varchar(20) default NULL,
+PRIMARY KEY (contact_id) 
+)
+
+
+CREATE TABLE gigs (
+gig_id INT NOT NULL AUTO_INCREMENT,
+client varchar(30) default NULL,
+revenue dec(4,2) default NULL,
+PRIMARY KEY (gig_id) 
+)
+
+INSERT INTO gigs
+VALUES
+('BBB',3.12);
+INSERT INTO gigs
+VALUES('BBB',20.38);
+INSERT INTO gigs
+VALUES('BBB',5.36);
+INSERT INTO gigs
+VALUES('BBB',35.98);
+INSERT INTO gigs
+VALUES('BBB',4.62);
+INSERT INTO gigs
+VALUES('BBB',11.8);
+INSERT INTO gigs
+VALUES('BBB',0.01);
+INSERT INTO gigs
+VALUES('BBB',30.02);
+INSERT INTO gigs
+VALUES('Felix Populi',30.43);
+INSERT INTO gigs
+VALUES('Felix Populi',54.26);
+INSERT INTO gigs
+VALUES('Felix Populi',66.8);
+INSERT INTO gigs
+VALUES('Felix Populi',49.92);
+INSERT INTO gigs
+VALUES('Felix Populi',24.6);
+INSERT INTO gigs
+VALUES('Felix Populi',17.41);
+INSERT INTO gigs
+VALUES('Felix Populi',48.68);
+INSERT INTO gigs
+VALUES('Felix Populi',33.77);
+INSERT INTO gigs
+VALUES ('Felix Populi',43);
+INSERT INTO gigs
+VALUES('Luminz Studio',10.77);

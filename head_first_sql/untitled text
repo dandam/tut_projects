@@ -1,0 +1,36 @@
+INSERT INTO gigs
+('BBB','3.12');
+INSERT INTO gigs
+('BBB','20.38');
+INSERT INTO gigs
+('BBB','5.36');
+INSERT INTO gigs
+('BBB','35.98');
+INSERT INTO gigs
+('BBB','4.62');
+INSERT INTO gigs
+('BBB','11.8');
+INSERT INTO gigs
+('BBB','0.01');
+INSERT INTO gigs
+('BBB','30.02');
+INSERT INTO gigs
+('Felix Populi','30.43');
+INSERT INTO gigs
+('Felix Populi','54.26');
+INSERT INTO gigs
+('Felix Populi','66.8');
+INSERT INTO gigs
+('Felix Populi','49.92');
+INSERT INTO gigs
+('Felix Populi','24.6');
+INSERT INTO gigs
+('Felix Populi','17.41');
+INSERT INTO gigs
+('Felix Populi','48.68');
+INSERT INTO gigs
+('Felix Populi','33.77');
+INSERT INTO gigs
+('Felix Populi','43');
+INSERT INTO gigs
+('Luminz Studio','10.77');

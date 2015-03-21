@@ -1,0 +1,98 @@
+CREATE TABLE gregs_contacts ( last_name VARCHAR(30), first_name VARCHAR(20), email VARCHAR(50), birthday DATE, gender CHAR(1), profession VARCHAR(50), location VARCHAR(50), status VARCHAR(20), interests VARCHAR(100), seeking VARCHAR(100) );
+
+
+INSERT INTO gregs_contacts (last_name, first_name, email, birthday, gender, profession, location, status, interests, seeking)
+VALUES
+('Anderson', 'Jillian', 'jill_anderson@breakneckpizza.net', '1980-09-05', 'F', 
+'Technical Writer', 'Palo Alto, CA', 'Single', 'Kayaking, Reptiles', 'Relationship, Friends');
+
+
+CREATE TABLE donut_list (donut_name VARCHAR(10), dozens DEC, topping VARCHAR(10), price DEC);
+
+INSERT INTO donut_list (donut_name, dozens, topping, price) VALUES ('jelly', 3, 'sprinkles', 3.50);
+
+
+INSERT INTO easy_drinks VALUES 
+    -> (
+    -> 'Blue Moon',
+    -> 'soda', 
+    -> 1.5,
+    -> 'blueberry juice',
+    -> .75,
+    -> 'stir with ice, 
+    '> strain into cocktail glass
+    '> with lemon twist'
+    -> );
+
+INSERT INTO easy_drinks VALUES
+(
+'Oh My Gosh',
+'peach nectar',
+1,
+'pineapple juice',
+1,
+'stir with ice, strain into shot glass');
+INSERT INTO easy_drinks VALUES
+(
+'Lime Fizz',
+'Sprite',
+1.5,
+'lime juice',
+.75,
+'stir with ice, strain into cocktail glass');
+INSERT INTO easy_drinks VALUES
+(
+'Kiss on the Lips',
+'cherry juice',
+2,
+'apricot nectar',
+7,
+'serve over ice with straw');
+INSERT INTO easy_drinks VALUES
+(
+'Hot Gold',
+'peach nectar',
+3,
+'orange juice',
+6,
+'pour hot orange juice in mug and add peach nectar');
+INSERT INTO easy_drinks VALUES
+(
+'Lone Tree',
+'soda',
+1.5,
+'cherry juice',
+.75,
+'stir with ice, strain into cocktail glass');
+INSERT INTO easy_drinks VALUES
+(
+'Greyhound',
+'soda',
+1.5,
+'grapefruit juice',
+5,
+'serve over ice, stir well');
+INSERT INTO easy_drinks VALUES
+(
+'Indian Summer',
+'apple juice',
+2,
+'hot tea',
+6,
+'add juice to mug and top off with hot tea');
+INSERT INTO easy_drinks VALUES
+(
+'Bull Frog',
+'iced tea',
+1.5,
+'lemonade',
+5,
+'serve over ice with lime slice');
+INSERT INTO easy_drinks VALUES
+(
+'Soda and It',
+'soda',
+2,
+'grape juice',
+1,
+'shake in cocktail glass, no ice');
