@@ -1,0 +1,7 @@
+New log file opened at Sat Mar 07 18:24:09 CST 2015 by 2102@Daniels-MacBook-Pro.local
+Taking next connection to: 53996
+New client attempting to connect on port: 53997-53996
+  Address = /10.0.0.14:53996
+This client on port 53997 has uuid 99116eb1-2b3c-4f81-8909-44c4fe8635b4 configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-99116eb1-2b3c-4f81-8909-44c4fe8635b4
+Taking next connection to: 53996
