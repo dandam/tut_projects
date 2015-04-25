@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
+{:	data{I"/:ET{:default{	:	lastI";<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -10,16 +10,24 @@
   </head>
   <body>
     <div id="main">
-      <h1>A Brand New nanoc Site</h1>
-
-<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+      <h2 id="a-brand-new-nanoc-site">A Brand New nanoc Site</h2>
 
 <ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
+  <li>So, this is nanoc. Interesting… there are so many of these frameworks, I begin to wonder what all the fuss is about. How can they all survive? How can any die? They are essentially all packages, somewhat generalized solutions, but do any of them really to anything better or different than the others. Flat site generators seem fine for content driven sites, but if you need something with a bit functionality, like say an advanced product finder, product customization tool, or even a set of authenticated forms and end-user account management… you need something more and then you’re back in the land of app frameworks and you may as well build your own content templates and such there, right?&lt;/p&gt;</li>
 </ul>
 
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+<h1 id="things-i-will-do-today">Things I Will Do Today</h1>
+
+<ol>
+  <li>Tai Chi</li>
+  <li>Shower</li>
+  <li>Go pick up Prasanna and take him to the Mall of America</li>
+  <li>Eat lunch</li>
+  <li>Take Prasanna to the airport</li>
+  <li>On the way back from the airport I want to stop at a few stores and pick up somethings like groceries, poly bags for my records, and maybe some comic books.</li>
+  <li>Chill the heck out.</li>
+</ol>
+
 
     </div>
     <div id="sidebar">
@@ -37,26 +45,38 @@
     </div>
   </body>
 </html>
-;T:rawI"�<h1>A Brand New nanoc Site</h1>
+;T:rawI"-##A Brand New nanoc Site
 
-<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+* So, this is nanoc. Interesting... there are so many of these frameworks, I begin to wonder what all the fuss is about. How can they all survive? How can any die? They are essentially all packages, somewhat generalized solutions, but do any of them really to anything better or different than the others. Flat site generators seem fine for content driven sites, but if you need something with a bit functionality, like say an advanced product finder, product customization tool, or even a set of authenticated forms and end-user account management... you need something more and then you're back in the land of app frameworks and you may as well build your own content templates and such there, right?</p>
+
+# Things I Will Do Today
+
+1. Tai Chi
+2. Shower
+3. Go pick up Prasanna and take him to the Mall of America
+4. Eat lunch
+5. Take Prasanna to the airport
+6. On the way back from the airport I want to stop at a few stores and pick up somethings like groceries, poly bags for my records, and maybe some comic books.
+7. Chill the heck out.
+
+;T:preI"�<h2 id="a-brand-new-nanoc-site">A Brand New nanoc Site</h2>
 
 <ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
+  <li>So, this is nanoc. Interesting… there are so many of these frameworks, I begin to wonder what all the fuss is about. How can they all survive? How can any die? They are essentially all packages, somewhat generalized solutions, but do any of them really to anything better or different than the others. Flat site generators seem fine for content driven sites, but if you need something with a bit functionality, like say an advanced product finder, product customization tool, or even a set of authenticated forms and end-user account management… you need something more and then you’re back in the land of app frameworks and you may as well build your own content templates and such there, right?&lt;/p&gt;</li>
 </ul>
 
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
-;T:preI"�<h1>A Brand New nanoc Site</h1>
+<h1 id="things-i-will-do-today">Things I Will Do Today</h1>
 
-<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+<ol>
+  <li>Tai Chi</li>
+  <li>Shower</li>
+  <li>Go pick up Prasanna and take him to the Mall of America</li>
+  <li>Eat lunch</li>
+  <li>Take Prasanna to the airport</li>
+  <li>On the way back from the airport I want to stop at a few stores and pick up somethings like groceries, poly bags for my records, and maybe some comic books.</li>
+  <li>Chill the heck out.</li>
+</ol>
 
-<ul>
-  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
-  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
-</ul>
-
-<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
 ;T:	post@
 I"/stylesheet/;T{;{;I"�* {
   margin: 0;
@@ -160,4 +180,46 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@;
-@:versioni
+@I"/about/;T{;{	;I"t<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - About Uncle Murray</title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.5">
+  </head>
+  <body>
+    <div id="main">
+      
+<h1>Uncle Murray</h1>
+
+<p>Uncle Murray is a kindly gentleman tabby of some years. He most enjoys eating chicken, good pets, bold birds (who visit his terrace), and a good rub. He has a commanding purr, an authorative meow, and an assertive squawk.</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="http://nanoc.ws/docs/">Documentation</a></li>
+        <li><a href="http://nanoc.ws/docs/tutorial/">Getting Started</a></li>
+      </ul>
+      <h2>Community</h2>
+      <ul>
+        <li><a href="http://groups.google.com/group/nanoc/">Discussion Group</a></li>
+        <li><a href="irc://chat.freenode.net/#nanoc">IRC Channel</a></li>
+        <li><a href="http://github.com/nanoc/nanoc/wiki/">Wiki</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;T;	I"�
+<h1>Uncle Murray</h1>
+
+<p>Uncle Murray is a kindly gentleman tabby of some years. He most enjoys eating chicken, good pets, bold birds (who visit his terrace), and a good rub. He has a commanding purr, an authorative meow, and an assertive squawk.</p>
+;T;
+I"�
+<h1>Uncle Murray</h1>
+
+<p>Uncle Murray is a kindly gentleman tabby of some years. He most enjoys eating chicken, good pets, bold birds (who visit his terrace), and a good rub. He has a commanding purr, an authorative meow, and an assertive squawk.</p>
+;T;@:versioni
