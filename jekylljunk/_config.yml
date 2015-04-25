@@ -1,0 +1,13 @@
+# Site settings
+title: Tai Chi Notes
+# email: 
+description: > # this means to ignore newlines until "baseurl:"
+  This is a simple experiment in creating a site based on notes from Bari Shamas. If access can be secured, the idea is that this may be easier and more secure than sharing via Google.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://taichi.sinkandrelax.net" # the base hostname & protocol for your site
+twitter_username: dandamvt
+github_username:  dandam
+
+# Build settings
+markdown: kramdown
+excerpt_separator: "<!--more-->"
