@@ -3,3 +3,6 @@
 *.tar
 *.tgz
 *.DS_storen
+yomytodo/bower_components/*
+yomytodo/node_modules/*
+hello-bootstrap/*
