@@ -1,7 +1,0 @@
-New log file opened at Sat Mar 07 18:46:37 CST 2015 by 2605@Daniels-MacBook-Pro.local
-Taking next connection to: 54542
-New client attempting to connect on port: 54543-54542
-  Address = /10.0.0.14:54542
-This client on port 54543 has uuid 97bae19b-dbb6-497c-88ba-601c0a2bb75a configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
-Connected Clients: activator-97bae19b-dbb6-497c-88ba-601c0a2bb75a
-Taking next connection to: 54542

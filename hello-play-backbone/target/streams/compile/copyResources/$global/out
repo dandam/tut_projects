@@ -1,5 +1,0 @@
-[debug] Copy resource mappings: 
-[debug] 	(/Users/dandam/tutProjects/hello-play-backbone/target/scala-2.10/resource_managed/main/public/stylesheets/index.css,/Users/dandam/tutProjects/hello-play-backbone/target/scala-2.10/classes/public/stylesheets/index.css)
-[debug] 	(/Users/dandam/tutProjects/hello-play-backbone/target/scala-2.10/resource_managed/main/public/stylesheets/index.min.css,/Users/dandam/tutProjects/hello-play-backbone/target/scala-2.10/classes/public/stylesheets/index.min.css)
-[debug] 	(/Users/dandam/tutProjects/hello-play-backbone/conf/application.conf,/Users/dandam/tutProjects/hello-play-backbone/target/scala-2.10/classes/application.conf)
-[debug] 	(/Users/dandam/tutProjects/hello-play-backbone/conf/routes,/Users/dandam/tutProjects/hello-play-backbone/target/scala-2.10/classes/routes)

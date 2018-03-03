@@ -1,7 +1,0 @@
-New log file opened at Sat Mar 07 19:01:53 CST 2015 by 2806@Daniels-MacBook-Pro.local
-Taking next connection to: 54801
-New client attempting to connect on port: 54802-54801
-  Address = /10.0.0.14:54801
-This client on port 54802 has uuid 06af18ca-2038-49c0-a31b-6da8bb2626fc configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
-Connected Clients: activator-06af18ca-2038-49c0-a31b-6da8bb2626fc
-Taking next connection to: 54801
